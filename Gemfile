@@ -24,6 +24,10 @@ gem 'jquery-rails'
 gem 'sunspot_rails'
 gem 'sunspot_solr'
 
+group :test, :development do
+  gem 'rspec-rails'
+end
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

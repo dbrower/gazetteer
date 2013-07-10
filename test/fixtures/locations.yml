@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  preferred_names: MyText
+  aliases: MyText
+  latitude: 9.99
+  longitude: 9.99
+  feature_class: MyString
+
+two:
+  preferred_names: MyText
+  aliases: MyText
+  latitude: 9.99
+  longitude: 9.99
+  feature_class: MyString
